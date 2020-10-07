@@ -1,2 +1,4 @@
 title: "The SNISNI Wiki"
 remote_theme: barryclark/jekyll-now
+
+theme: jekyll-theme-slate
